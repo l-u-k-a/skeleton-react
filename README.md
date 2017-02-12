@@ -9,7 +9,7 @@ reactjs basic boilerplate
 ## Manual
 Clone the repository
 ```sh
-git clone git@github.com:l-u-k-a/skeleton-react.git
+git clone https://github.com/l-u-k-a/skeleton-react.git
 ```
 Install dependencies
 ```sh
