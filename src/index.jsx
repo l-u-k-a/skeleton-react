@@ -5,4 +5,7 @@ import './assets/scss/style.scss';
 
 import student from  './assets/media/student.png';
 
-ReactDOM.render(<div>hello <img src={student} alt="Student Icon" /></div>, document.getElementById('root'));
+import Header from './app/components/header';
+
+
+ReactDOM.render(<div><Header /><img src={student} alt="Student Icon" /></div>, document.getElementById('root'));
